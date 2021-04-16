@@ -60,7 +60,16 @@ python setup.py build
 
 Every time you run "setup.py", Signature will change and If you want encrypt the Informations.txt (Wifi Password) using the "Encrypt-Decrypt.py" for better security.
 
-
+### Connect with author
+<div align="center">
+<a href="https://github.com/HackWeiser360" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/503_madmax" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/madmax4708/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 ### Stargazers
 [![Stargazers repo roster for @HackWeiser360/WiFi-Password-Stealer](https://reporoster.com/stars/HackWeiser360/WiFi-Password-Stealer)](https://github.com/HackWeiser360/WiFi-Password-Stealer)
