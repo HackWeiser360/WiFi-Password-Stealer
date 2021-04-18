@@ -71,5 +71,8 @@ Every time you run "setup.py", Signature will change and If you want encrypt the
 <a href="https://www.instagram.com/madmax4708/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=503_madmax)](https://github.com/HackWeiser360/github-readme-twitter)
+
+
 ### Stargazers
 [![Stargazers repo roster for @HackWeiser360/WiFi-Password-Stealer](https://reporoster.com/stars/HackWeiser360/WiFi-Password-Stealer)](https://github.com/HackWeiser360/WiFi-Password-Stealer)
